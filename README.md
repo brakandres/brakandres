@@ -23,4 +23,4 @@ software analysis and development student Censa medellin
 
 ## Skills
 
-[javascript].(https://img.shields.io/badge/studying-javascript-yellow)
+![javascript].(https://img.shields.io/badge/studying-javascript-yellow)</br>
