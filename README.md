@@ -20,7 +20,3 @@ software analysis and development student Censa medellin
 
 
 [twitter].(https://twitter.com/marlon19921)
-
-## Skills
-
-![javascript].(https://img.shields.io/badge/studying-javascript-yellow)</br>
